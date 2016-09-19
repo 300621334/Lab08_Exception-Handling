@@ -1,0 +1,12 @@
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\Lab06\testing\bin\Debug\testing.exe.config
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\Lab06\testing\bin\Debug\testing.exe
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\Lab06\testing\bin\Debug\testing.pdb
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\Lab06\testing\obj\Debug\testing.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\Lab06\testing\obj\Debug\testing.exe
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\Lab06\testing\obj\Debug\testing.pdb
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\Lab08_Exception Handling\testing\bin\Debug\testing.exe.config
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\Lab08_Exception Handling\testing\obj\Debug\testing.exe
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\Lab08_Exception Handling\testing\obj\Debug\testing.pdb
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\Lab08_Exception Handling\testing\bin\Debug\testing.exe
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\Lab08_Exception Handling\testing\bin\Debug\testing.pdb
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\Lab08_Exception Handling\testing\obj\Debug\testing.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\Lab06\Lab06\bin\Debug\Lab06.exe.config
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\Lab06\Lab06\bin\Debug\Lab06.exe
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\Lab06\Lab06\bin\Debug\Lab06.pdb
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\Lab06\Lab06\obj\Debug\GoTooFar.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\Lab06\Lab06\obj\Debug\Lab06.exe
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\Lab06\Lab06\obj\Debug\Lab06.pdb
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\Lab08_Exception Handling\Lab06\bin\Debug\Lab06.exe.config
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\Lab08_Exception Handling\Lab06\obj\Debug\Lab06.exe
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\Lab08_Exception Handling\Lab06\obj\Debug\Lab06.pdb
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\Lab08_Exception Handling\Lab06\bin\Debug\Lab06.exe
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\Lab08_Exception Handling\Lab06\bin\Debug\Lab06.pdb
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\Lab08_Exception Handling\Lab06\obj\Debug\GoTooFar.csprojResolveAssemblyReference.cache

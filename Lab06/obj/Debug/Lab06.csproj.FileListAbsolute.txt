@@ -1,0 +1,6 @@
+H:\Comp-123 - C#\Projects\Lab06\Lab06\bin\Debug\Lab06.exe.config
+H:\Comp-123 - C#\Projects\Lab06\Lab06\bin\Debug\Lab06.exe
+H:\Comp-123 - C#\Projects\Lab06\Lab06\bin\Debug\Lab06.pdb
+H:\Comp-123 - C#\Projects\Lab06\Lab06\obj\Debug\Lab06.csprojResolveAssemblyReference.cache
+H:\Comp-123 - C#\Projects\Lab06\Lab06\obj\Debug\Lab06.exe
+H:\Comp-123 - C#\Projects\Lab06\Lab06\obj\Debug\Lab06.pdb

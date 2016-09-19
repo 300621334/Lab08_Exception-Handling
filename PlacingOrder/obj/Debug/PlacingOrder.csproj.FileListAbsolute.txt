@@ -1,0 +1,18 @@
+H:\Comp-123 - C#\Projects\Lab06\PlacingOrder\bin\Debug\PlacingOrder.exe.config
+H:\Comp-123 - C#\Projects\Lab06\PlacingOrder\bin\Debug\PlacingOrder.exe
+H:\Comp-123 - C#\Projects\Lab06\PlacingOrder\bin\Debug\PlacingOrder.pdb
+H:\Comp-123 - C#\Projects\Lab06\PlacingOrder\obj\Debug\PlacingOrder.exe
+H:\Comp-123 - C#\Projects\Lab06\PlacingOrder\obj\Debug\PlacingOrder.pdb
+H:\Comp-123 - C#\Projects\Lab06\PlacingOrder\obj\Debug\PlacingOrder.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\Lab06\PlacingOrder\bin\Debug\PlacingOrder.exe.config
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\Lab06\PlacingOrder\bin\Debug\PlacingOrder.exe
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\Lab06\PlacingOrder\bin\Debug\PlacingOrder.pdb
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\Lab06\PlacingOrder\obj\Debug\PlacingOrder.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\Lab06\PlacingOrder\obj\Debug\PlacingOrder.exe
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\Lab06\PlacingOrder\obj\Debug\PlacingOrder.pdb
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\Lab08_Exception Handling\PlacingOrder\bin\Debug\PlacingOrder.exe.config
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\Lab08_Exception Handling\PlacingOrder\obj\Debug\PlacingOrder.exe
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\Lab08_Exception Handling\PlacingOrder\obj\Debug\PlacingOrder.pdb
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\Lab08_Exception Handling\PlacingOrder\bin\Debug\PlacingOrder.exe
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\Lab08_Exception Handling\PlacingOrder\bin\Debug\PlacingOrder.pdb
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\Lab08_Exception Handling\PlacingOrder\obj\Debug\PlacingOrder.csprojResolveAssemblyReference.cache
